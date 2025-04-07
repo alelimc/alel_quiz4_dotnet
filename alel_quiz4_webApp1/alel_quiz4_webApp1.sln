@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alel_quiz4_webApp1", "alel_quiz4_webApp1\alel_quiz4_webApp1.csproj", "{38824E95-63D9-41F4-906A-58409A8B1840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38824E95-63D9-41F4-906A-58409A8B1840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38824E95-63D9-41F4-906A-58409A8B1840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38824E95-63D9-41F4-906A-58409A8B1840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38824E95-63D9-41F4-906A-58409A8B1840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E592B7BE-8E14-4738-9583-D344F1C05217}
+	EndGlobalSection
+EndGlobal

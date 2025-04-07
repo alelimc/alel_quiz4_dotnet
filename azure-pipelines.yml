@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'windows-latest'
+  name: 'alel_agent_selfhosted'  # Use your self-hosted agent pool
 
 variables:
   solution: '**/*.sln'
